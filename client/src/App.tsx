@@ -10,7 +10,7 @@ function App() {
       <ModeToggle />
      <h1>Hello, Vite + React!</h1>
      <Card>
-       <p>This is a card component.</p>
+       <p>This is a card components.</p>
      </Card>
      <Button onClick={() => alert("Button clicked!")}>Click Me</Button>
     </ThemeProvider>
